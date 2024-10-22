@@ -85,4 +85,4 @@ I design and implement LLM-enabled RAG systems using a range of databases, model
 ---
 
 ### 📫 Get in touch:
-- Feel free to connect on [LinkedIn](https://www.linkedin.com/) or explore my projects here on [GitHub](https://github.com/)!
+- Feel free to connect on [LinkedIn](www.linkedin.com/in/adityasagarr) or explore my projects here on [GitHub](https://github.com/)!
